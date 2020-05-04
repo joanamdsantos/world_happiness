@@ -17,14 +17,14 @@ The World Happiness Report is a landmark survey of the state of global happiness
 In this research, I will use the world happiness data from 2017 and 2019 to infer:
 
 1. What countries rank the highest in overall happiness and each of the six factors contributing to happiness?
-2. How did country ranks or scores change between the 2017 and 2019 reports?
-3. Did any country experience a significant increase or decrease in happiness?
+2. What is the degree of influence and correlations of the six factors on the overall score?
+3. Which factors correlate more with the Happiness score?
 
 ## Files Descriptions
 With this project, there are two notebooks regarding the data exploration and modelling, along with a python file with functions used in the analysis.
 
 ## Results
-When the analysis is concluded, the findings will be published with a link provided here.
+When the analysis is concluded, the findings will be published with a link provided [here](https://medium.com/@joanamlmsantos/how-happy-are-you-in-the-world-today-4381c09e2b?sk=31debd56d8138f4defd641b98d421e38).
 
 ## Licensing, Authors and Acknowledgements
 World Happiness is a project from the Sustainable Development Solutions Network, on the survey of the state of global happiness. The data and licensing can be found at https://www.kaggle.com/unsdsn/world-happiness. The code is free for use as good as possible.
